@@ -1,2 +1,3 @@
 some configurations
 additional configuration
+more changes in conflict with feature3
