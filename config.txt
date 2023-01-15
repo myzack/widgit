@@ -1,3 +1,4 @@
 some configurations
 additional configuration
 more changes in conflict with feature3
+needed to add this change for the pull request review
